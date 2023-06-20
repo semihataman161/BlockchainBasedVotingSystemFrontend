@@ -5,4 +5,4 @@ npm i OR yarn
 yarn serve OR npm run serve
 
 # You can access the live website at:
-https://blockchain-based-voting-system-frontend.vercel.app
+https://blockchain-based-voting-system.vercel.app
